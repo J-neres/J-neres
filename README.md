@@ -1,4 +1,4 @@
-# 👨🏾‍💻🎲 Juliano Neres
+# 👨🏾‍💻 Juliano Neres
 
 **`Analista de Dados/Produtos`**
 
