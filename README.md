@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Juliano Neres
 
-**`Analista de Dados/Produtos`**
+#### **`Analista de Dados/Produtos`**
 
 Me chamo Juliano Neres, sou técnico em informática, estudante de Análise e Desenvolvimento de Sistemas na **FATEC** e atuo com desenvolvimento ágil de produtos no **@Itaú🟠.**\
 Possuo experiência em análise de dados, desenvolvimento de dashboards, gestão de produtos e, atualmente, venho aprofundando meus conhecimentos em **SQL, Python** e **AWS**.
